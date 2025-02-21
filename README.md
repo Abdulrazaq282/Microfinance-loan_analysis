@@ -32,6 +32,8 @@ compare marital status of total customers, housing of total customers, total cus
 contact of total customers. These visualization not only helps in identifying trends and patterns at 
 a glance but also make the analysis more accesible for decision-makers to draw actionable insight from the 
 use of colour, labels and clear axes ensures that the visualizations are both informative and intuitive.
+![image](https://github.com/user-attachments/assets/7e4dba05-037b-41d8-bb68-0cbe5c6e5464)
+
 
 ### Result/findings
 - Customers with blue-collar job patronizes the bank the most
